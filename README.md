@@ -1,5 +1,4 @@
 # processingCodes
-My processing sketches - as I learn.
 
 I decided to learn Processing, experimented a little bit to get familiar with syntax and decided to follow Daniel Shiffman's Nature of Code.
 
